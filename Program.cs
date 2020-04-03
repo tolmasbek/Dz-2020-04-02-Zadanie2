@@ -77,7 +77,8 @@ namespace dz_zadanie_2
             public double PerimeterCalculator()
             {
                 return 2 * (side1 + side2);
-            }         
+            }
+                     
         }
     }
 }
